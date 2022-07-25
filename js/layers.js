@@ -276,6 +276,7 @@ upgrades:{
         ["row", [["display-text",function(){return "能量条："}],["bar", "ck1"],["bar", "ck2"],["bar", "ck3"],["bar", "ck4"],["bar", "ck5"],["clickable", 11]]],
         "challenges",//挑战
         "buyables",//重复购买项
+        ["clickable", 21],
         //"clickables",//按钮
         "blank",
         "blank",
