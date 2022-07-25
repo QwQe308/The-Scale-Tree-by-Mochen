@@ -49,6 +49,7 @@ var displayThings = [
 function(){return `<big>f</big><sub>(x)</sub>= <big>${formatWhole(player.points)}</big><sub>(${format(player.p.limit,0)})</sub>`},
 function(){return `+${format(player.p.pc)}/sec`},
 function(){return `最大位数:${format(player.p.digitCapacity)}`},
+function(){return `当前残局:完成G节点挑战11`},
 ]
 
 // Determines when the game "ends"
